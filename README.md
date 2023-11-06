@@ -64,5 +64,6 @@ Our team, "Traffic Light," aims to develop a model for predicting the daily clos
 </div>
 
 ## PPT
-https://github.com/haninnisfree/Hackaton/files/13263362/default.pptx
+<img width="80%" src="https://github.com/haninnisfree/Hackaton/files/13263362/default.pptx"/>
+
 
