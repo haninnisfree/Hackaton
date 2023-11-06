@@ -27,3 +27,34 @@
 - **한인희** (데이터 전처리, 발표 자료 제작, 최종 발표)
 
 </div>
+
+# 🚀 Hackathon - "Traffic Light" Exchange Rate Prediction Team 🚀
+
+## Hackathon
+
+- **Duration**: September 22, 2023 (Friday) - October 12, 2023 (Thursday)
+- **Topic**: Predicting the Won/Dollar Exchange Rate Using FX Volatility
+- **Utilized Technologies**: Machine Learning Based on Regression Models
+
+## Rationale for Topic Selection
+
+1. **Exchange Rate Volatility and Economic Loss**
+   - The unpredictable movement of the Won/Dollar exchange rate increases the potential for economic losses for businesses and individuals.
+2. **Proportion of Trade Payment Currency**
+   - South Korea uses the U.S. dollar for over 80% of trade payments, making it sensitive to exchange rate fluctuations.
+3. **Trade Dependency and Economic Crisis**
+   - With South Korea's trade dependency exceeding 100%, exchange rate fluctuations can lead to a national economic crisis.
+
+## Objectives of Team "Traffic Light"
+
+Our team, "Traffic Light," aims to develop a model for predicting the daily closing exchange rate, providing a signal to enhance the stability and profitability of international trade for businesses and individuals.
+
+## Team Member Introduction
+
+- **Minjong Joo** (Team Leader, Lead Coder, Data Collector)
+- **Joohee Kang** (Secretary, Curator, Modeling)
+- **Jaewook Lee** (Data Collection and Sub-coding)
+- **Inhee Han** (Data Preprocessing, Presentation Material Creation, Final Presentation)
+
+</div>
+
