@@ -26,6 +26,11 @@
 - **위재욱** (데이터 수집 및 서브 코더)
 - **한인희** (데이터 전처리, 발표 자료 제작, 최종 발표)
 
+
+
+
+
+
 </div>
 
 # 🚀 Hackathon - "Traffic Light" Exchange Rate Prediction Team 🚀
