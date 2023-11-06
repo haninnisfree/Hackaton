@@ -65,6 +65,8 @@ Our team, "Traffic Light," aims to develop a model for predicting the daily clos
 
 ## PPT
 [환율예측.pptx](https://github.com/haninnisfree/Hackaton/files/13263420/default.pptx)
+<img width="915" alt="image" src="https://github.com/haninnisfree/Hackaton/assets/144647781/3c2d8526-2014-4bb0-bb16-d29c6a4e09ea">
+
 
 
 
