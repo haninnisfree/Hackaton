@@ -94,7 +94,6 @@ Our team, "Traffic Light," aims to develop a model for predicting the daily clos
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/86286204-2133-4d1d-bc1c-75ddff207cc4)
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/c2e4e594-a138-43aa-8b38-9f002ba7dd02)
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/119c047b-b97f-484e-b322-47d1a288801b)
-![image](https://github.com/haninnisfree/Hackaton/assets/144647781/4e8cef98-c7dc-4bc1-ab93-42486e36498f)
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/9e637a62-e61d-4347-9ba2-3f030e240846)
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/da4d2cf1-ad7c-424b-9c72-dd287572f914)
 ![image](https://github.com/haninnisfree/Hackaton/assets/144647781/615fd6da-cc31-4447-a933-05f68a233dd5)
